@@ -1,0 +1,15 @@
+{
+  "name": "primitive-derivatives",
+  "logoURI": "ipfs://QmVuUZjdRRDwQuQWxKnfNmR6Bww4vemgk5NQ7vffiUspbq",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2021-01-1T00:00:00+00:00",
+  "keywords": [
+    "derivatives",
+    "primitive"
+  ],
+  "tokens": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "primitive-defi-tokens",
+  "logoURI": "ipfs://QmVuUZjdRRDwQuQWxKnfNmR6Bww4vemgk5NQ7vffiUspbq",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2021-01-1T00:00:00+00:00",
+  "keywords": [
+    "defi",
+    "primitive"
+  ],
+  "tokens": [
+    {
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "chainId": 1,
+      "name": "Yearn",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+    }
+  ]
+}
