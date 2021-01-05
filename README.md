@@ -10,21 +10,21 @@ At Primitive, we are using token lists to bring order, clarity, and quality to t
 
 Primitive Token Lists are seperated into 3 distict, self-explanatory, catagories.
 
-- primitive-crypto-assets
+- crypto-assets
   - WBTC
   - WETH
-- primitive-defi-tokens
+- defi-tokens
   - YFI
   - UNI
   - SUSHI
   - AAVE
   - SNX
   - etc...
-- primitive-derivatives (assets, tokens, commodities, Forex, volatility instruments)
-    - iETH
-    - sBTC
-    - uGas
-    - EVIX
+- derivatives (assets, tokens, commodities, Forex, volatility instruments)
+  - iETH
+  - sBTC
+  - uGas
+  - EVIX
 
 These lists are used in within the Primitive Interface to provide a community driven, relevant catalog of active Primitive option markets supported by the application and protocol.
 ## How can I propose a revision?
