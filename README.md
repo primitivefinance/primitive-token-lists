@@ -8,7 +8,7 @@ Token lists are an ERC20 token list standard developed by [Uniswap](https://unis
 At Primitive, we are using token lists to bring order, clarity, and quality to the ever-expanding list of ERC20 tokens supported by the Primitive Protocol and Primitive Interface. 
 ## What are Primitive Token Lists?
 
-Primitive Token Lists are seperated into 3 distict, self-explanatory, catagories.
+Primitive Token Lists are seperated into 3 distinct, self-explanatory, catagories.
 
 - crypto-assets
   - WBTC
