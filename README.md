@@ -26,7 +26,7 @@ Primitive Token Lists are seperated into 3 distinct (hopefully self-explanatory)
   - uGas
   - EVIX
 
-- strike (token that denomentates the strike price)
+- strike (token that denomintates the strike price)
   - DAI
 
 These lists are used in within the Primitive Interface to provide a community driven, relevant catalog of active Primitive option markets supported by the application and protocol.
