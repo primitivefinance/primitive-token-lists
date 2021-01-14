@@ -1,0 +1,24 @@
+{
+  "name": "primitive-strike",
+  "logoURI": "ipfs://QmVuUZjdRRDwQuQWxKnfNmR6Bww4vemgk5NQ7vffiUspbq",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2021-01-1T00:00:00+00:00",
+  "keywords": [
+    "strike",
+    "options",
+    "primitive"
+  ],
+  "tokens": [
+    {
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "symbol": "DAI",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "chainId": 1
+    }
+  ]
+}
