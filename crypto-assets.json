@@ -3,7 +3,7 @@
   "logoURI": "ipfs://QmVuUZjdRRDwQuQWxKnfNmR6Bww4vemgk5NQ7vffiUspbq",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "timestamp": "2021-01-1T00:00:00+00:00",
@@ -13,12 +13,20 @@
   ],
   "tokens": [
     {
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1,
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "decimals": 8,
+      "symbol": "WBTC",
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     }
   ]
 }
