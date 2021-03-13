@@ -21,6 +21,30 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "address": "0xB79E96ef59E7CfEB6eF888a1537D0F66F3c65d8D",
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+      "chainId": 42,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "RAI",
+      "decimals": 18,
+      "symbol": "RAI",
+      "address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
+      "chainId": 1,
+      "logoURI": "https://images.ctfassets.net/zql9qw49kkiw/3X1lppBeo1qdMZGEHk5KdJ/75aef21175afd406265c0a36d59c8f26/RAI-logo-coin.png"
+    },
+    {
       "name": "RAI",
       "decimals": 18,
       "symbol": "RAI",
